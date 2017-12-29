@@ -99,7 +99,7 @@ input[type=text], select {
 
 
 
-<form method="post" action="">
+<form method="post" action="ekle.php">
 
 
 <input list="browsers" name="okul_adi" placeholder="Okullar">
@@ -149,7 +149,7 @@ input[type=text], select {
 </center>
 </form>
 
-<form method="get" action="insert.php">
+<form method="get" action="getir.php">
   <center>
   <input type="submit" class="button" value="Listele">
   </center>
