@@ -1,4 +1,4 @@
-Sipariş Eklem
+Sipariş Ekle
 
 Bu uygulamanın amacı kendimize ait bir iş için hızlıca akıllı cihazımıza nasıl sipariş kaydı alabiliriz sorusu için bir ön çalışmadır.
 
