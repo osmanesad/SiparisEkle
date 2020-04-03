@@ -8,5 +8,5 @@ Dediğim gibi proje basit bir amaç için basit başamıştır. Yine profesyonel
 
 Kodları kullanmak isteyen ya da bir fikir gören için paylaşılmıştır.
 
-Ana ekrandan görüntü:
+
 ![SiparisEkle](https://user-images.githubusercontent.com/9142018/78391333-d5ed8200-75ee-11ea-9af9-e1f5fa255833.PNG)
